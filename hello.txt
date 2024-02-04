@@ -1,3 +1,5 @@
 feature1: removed line 1-5
 hello
 world
+
+-- new addition (to cause conflict)
