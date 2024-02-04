@@ -5,6 +5,3 @@
 5
 hello
 world
-8
-9
-feature2: added new line 8-9
